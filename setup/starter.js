@@ -1,3 +1,3 @@
 module.exports = {
-  tk: "TOKEN DISCORD",
+  tk: process.env.TOKEN,
 };
