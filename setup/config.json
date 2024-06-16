@@ -1,0 +1,33 @@
+{
+  "setup": {
+    "city": "mae sai",
+    "delay": 5
+  },
+  "config": {
+    "options": {
+      "watch-url": ["https://www.youtube.com/watch?v=2LBBaD1aQuw"],
+      "timestamp": "{start}"
+    },
+    "text-1": ["TEXT 1"],
+    "text-2": ["TEXT 2"],
+    "text-3": ["TEXT 3"],
+    "bigimg": [
+      "https://i.pinimg.com/originals/8a/6d/63/8a6d63bc5fea4943196b9ee0eb875378.gif"
+    ],
+    "smallimg": [
+      "https://i.pinimg.com/originals/14/ce/44/14ce44006738e141ced2efea23794d14.gif"
+    ],
+    "button-1": [
+      {
+        "name": "BUTTON 1",
+        "url": "https://discord.gg/XDPfrU4E9G"
+      }
+    ],
+    "button-2": [
+      {
+        "name": "BUTTON 2",
+        "url": "https://discord.gg/XDPfrU4E9G"
+      }
+    ]
+  }
+}
