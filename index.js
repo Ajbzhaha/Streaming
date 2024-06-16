@@ -1,5 +1,6 @@
 const { Launcher } = require("@loybung/launcher");
 const { resolve } = require("path");
+const server = require("./server");
 
 const app = new Launcher("https://loybung.vercel.app/api/project/streaming");
 
